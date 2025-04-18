@@ -1,0 +1,28 @@
+{
+  "records": [
+    {
+      "slug": "golden-hour-1",
+      "title": "Golden Hour Part 1",
+      "artist": "Ateez",
+      "blurb": ""
+    },
+    {
+      "slug": "golden-hour-2",
+      "title": "Golden Hour Part 2",
+      "artist": "Ateez",
+      "blurb": ""
+    },
+    {
+      "slug": "the-world",
+      "title": "The World EP.Fin Will",
+      "artist": "Ateez",
+      "blurb": ""
+    },
+    {
+      "slug": "indigo",
+      "title": "Indigo",
+      "artist": "RM",
+      "blurb": ""
+    }
+  ]
+}

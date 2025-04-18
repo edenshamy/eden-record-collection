@@ -9,6 +9,16 @@
       "fileId": "1gDwO-32cgpBDn_0niV0iu6TqQTaRDr4nmSqnT53magY",
       "type": "sheet",
       "name": "bookstores"
+    },
+    {
+      "fileId": "1dU6GZRgmb2vVAyYAApm69GYu5Ul_OXqiIBfjyNxIvjg",
+      "type": "doc",
+      "name": "eden"
+    },
+    {
+      "fileId": "1i2f4Fp-aDUXoI6SJCF_tyNEcJBX1N8QLoikTKKoW7zw",
+      "type": "doc",
+      "name": "ayesha"
     }
   ],
   "to_bake": [
@@ -18,6 +28,20 @@
       "array": "books",
       "slug": "slug",
       "path": "books"
+    },
+    {
+      "template": "bake-eden",
+      "data": "eden",
+      "array": "records",
+      "slug": "slug",
+      "path": "eden-records"
+    },
+    {
+      "template": "bake-ayesha",
+      "data": "ayesha",
+      "array": "records",
+      "slug": "slug",
+      "path": "ayesha-records"
     }
   ]
 }

@@ -1,0 +1,118 @@
+{
+  "records": [
+    {
+      "slug": "abbey-road",
+      "title": "Abbey Road",
+      "artist": "The Beatles",
+      "blurb": "Abbey Road is the eleventh studio album by the English rock band the Beatles, released on 26 September 1969, by Apple Records. This album contains perhaps my favorite Beatles song, “Octopus’s Garden,” plus tons of other wonderful classic tunes I adore."
+    },
+    {
+      "slug": "anthem-peaceful-army",
+      "title": "Anthem of the Peaceful Army",
+      "artist": "Greta Van Fleet",
+      "blurb": ""
+    },
+    {
+      "slug": "white-album",
+      "title": "The Beatles (White Album)",
+      "artist": "The Beatles",
+      "blurb": ""
+    },
+    {
+      "slug": "captain-fantastic",
+      "title": "Captain Fantastic and the Brown Dirt Cowboys",
+      "artist": "Elton John",
+      "blurb": ""
+    },
+    {
+      "slug": "clancy-brothers",
+      "title": "The Clancy Brothers Greatest Hits",
+      "artist": "The Clancy Brothers",
+      "blurb": ""
+    },
+    {
+      "slug": "deja-vu",
+      "title": "Deja Vu",
+      "artist": "Crosby, Stills, Nash & Young",
+      "Blurb": ""
+    },
+    {
+      "slug": "from-the-fires",
+      "title": "From the Fires",
+      "artist": "Greta Van Fleet",
+      "blurb": ""
+    },
+    {
+      "slug": "goodbye-yellow-brick-road",
+      "title": "Goodbye Yellow Brick Road",
+      "artist": "Elton John",
+      "blurb": ""
+    },
+    {
+      "slug": "great-buddy-holly",
+      "title": "The Great Buddy Holly",
+      "artist": "Buddy Holly",
+      "blurb": "Originally released in April 1958 as That'll Be the Day, The Great Buddy Holly boasts the landmark Holly hit, as well as nine other tracks of lesser import, notably \"Modern Don Juan\" and \"Rock Around with Ollie Vee.\" I bought this vinyl at Rough Trade in New York City because I hadn’t really listened to Buddy Holly before despite all I’d heard about his history and influence."
+    },
+    {
+      "slug": "macalla",
+      "title": "Macalla",
+      "artist": "Clannad",
+      "blurb": "Macalla is an album by the Irish folk group Clannad released on October 14, 1985. It is their ninth album and is known for the duet between Clannad's singer Moya Brennan and U2 vocalist Bono on the single \"In a Lifetime\". This is another gift from Professor Raoul Hernandez because I told him about my experience studying abroad in Ireland for a Maymester. The opening chants of Caislean Oir caught me by surprise and immediately captured me in the whimsical vibes of this experimental 80s album. My favorite songs off Macalla include “Closer to Your Heart” and “Journey’s End”."
+    },
+    {
+      "slug": "mean-business",
+      "title": "Mean Business",
+      "artist": "The Firm",
+      "blurb": ""
+    },
+    {
+      "slug": "black-album",
+      "title": "Metallica (Black Album)",
+      "artist": "Metallica",
+      "blurb": ""
+    },
+    {
+      "slug": "otis-redding-live",
+      "title": "Otis Redding Live in Europe",
+      "artist": "Otis Redding",
+      "blurb": ""
+    },
+    {
+      "slug": "planet-waves",
+      "title": "Planet Waves",
+      "artist": "Bob Dylan",
+      "blurb": "Planet Waves is the fourteenth studio album by American singer-songwriter Bob Dylan, released on January 17, 1974, by Asylum Records in the United States and Island Records in the United Kingdom. My freshman year roommate in the Kinsolving Dormitories gifted me this vinyl. I love Bob Dylan, and this is a funky album with a boisterously gritty sound that especially grew on me after a second spin."
+    },
+    {
+      "slug": "poets-heart",
+      "title": "Poet’s Heart",
+      "artist": "Kate Wolf",
+      "blurb": "Poet’s Heart by Kate Wolf is a lovely folk album released on July 1, 1985. Music Journalism professor Raoul Hernandez bestowed this beautiful vinyl upon me after I expressed my love for Joan Baez. I too quickly fell for Wolf’s enchanting guitar melodies and the slight twang to her smooth voice."
+    },
+    {
+      "slug": "queen-greatest-hits",
+      "title": "Queen Greatest Hits II",
+      "artist": "Queen",
+      "blurb": ""
+    },
+    {
+      "slug": "starcatcher",
+      "title": "Starcatcher",
+      "artist": "Greta Van Fleet",
+      "Blurb": ""
+    },
+    {
+      "slug": "way-of-the-world",
+      "title": "That’s the Way of the World",
+      "artist": "Earth, Wind & Fire",
+      "blurb": ""
+    },
+    {
+      "slug": "warp-riders",
+      "title": "Warp Riders",
+      "artist": "The Sword",
+      "blurb": ""
+    }
+  ]
+}
