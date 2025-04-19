@@ -25,3 +25,26 @@
 h3 {
   font-size: 1.5rem;
 }
+
+.container {
+  margin: 30px;
+}
+
+.card {
+
+  a:link {
+    color: white;
+  }
+
+  a:hover {
+    color: blue;
+  }
+
+  a:visited {
+    color: white;
+  }
+}
+
+.lead {
+  font-size: 25px;
+}

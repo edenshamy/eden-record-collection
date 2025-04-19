@@ -5,8 +5,29 @@
 {% block page_description %}A catalogue of my roommate's records.{% endblock %}
 
 {% block content %}
-<article class="container">
-  <h1>Ayesha's Collection</h1>
-  <p>Ayesha is my roommate and one of my closest friends. She fell in love with k-pop at age 10, and I don't think she'll ever fall out of love. Now, my lengthy knowledge about the genre comes entirely from her.</p>
-</article>
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+      <img src="" alt="" class="img-fluid mb-4">
+    </div>
+    <div class="col-sm-8">
+      <h1>Ayesha's Collection</h1>
+      <p>Ayesha is my roommate and one of my closest friends. She fell in love with k-pop at age 10, and I don't think she'll ever fall out of love. Now, my lengthy knowledge about the genre comes entirely from her.</p>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row row-cols-lg-2">
+      {% for records in ayesha.records %}
+  <div class="col">
+    <div class="card text-bg-danger mb-3 text-center" style="max-width: 18rem; h-100">
+      <img src="img/{{ records.slug }}.jpg" class="card-img-top" alt="...">
+      <a href="{{ relative_path }}eden-records/{{ records.slug }}.html" class="card-link">{{ records.title }}</a>
+    </div>
+  </div>
+      {% endfor %}
+  </div>
+</div>
 {% endblock %}
