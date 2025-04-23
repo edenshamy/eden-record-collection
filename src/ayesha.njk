@@ -9,7 +9,7 @@
 <div class="container">
   <div class="row">
     <div class="col-sm-4">
-      <img src="" alt="" class="img-fluid mb-4">
+      <img src="../img/ayesha-bio.jpg" alt="" class="img-fluid mb-4">
     </div>
     <div class="col-sm-8">
       <h1>Ayesha's Collection</h1>
@@ -22,7 +22,7 @@
   <div class="row row-cols-lg-2">
       {% for records in ayesha.records %}
   <div class="col">
-    <div class="card text-bg-danger mb-3 text-center" style="max-width: 18rem; h-100">
+    <div class="card text-bg-danger mb-3 text-center">
       <img src="img/{{ records.slug }}.jpg" class="card-img-top" alt="...">
       <a href="{{ relative_path }}eden-records/{{ records.slug }}.html" class="card-link">{{ records.title }}</a>
     </div>
