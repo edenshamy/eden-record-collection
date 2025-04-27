@@ -6,11 +6,22 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
       <ul class="navbar-nav">
-        <li class="nav-item">
+        <li class="nav-item dropdown">
           <a class="nav-link" href="{{ relative_path }}eden.html">Eden</a>
         </li>
-        <li class="nav-item">
-         <a class="nav-link" href="{{ relative_path }}ayesha.html">Ayesha</a>
+        <li class="nav-item dropdown">
+          <a class="nav-link" href="{{ relative_path }}ayesha.html">Ayesha</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="{{ relative_path }}eden.html" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">Quickview</a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          {% for records in eden.records %}
+          <li><a class="dropdown-item" href="{{ relative_path }}eden-records/{{ records.slug}}.html">{{ records.title }}</a></li>
+          {% endfor %}
+          {% for records in ayesha.records %}
+          <li><a class="dropdown-item" href="{{ relative_path }}ayesha-records/{{ records.slug}}.html">{{ records.title }}</a></li>
+          {% endfor %}
+          </ul>
         </li>
       </ul>
     </div>
